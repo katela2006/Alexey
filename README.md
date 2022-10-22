@@ -6,13 +6,13 @@
 
 UntitledO.ipynb Google Collab
 
-bdtest.txt
+bdtest.txt Тест базы данных
 
 logic.xlsx Таблица логики из сайта
 
 logic2task.xlsx 2 Таблица логики из сайта
 
-sql.txt
+sql.txt Команды sql
 
 table.py Таблица умножения в питоне
 
