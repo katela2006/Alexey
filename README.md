@@ -40,12 +40,13 @@ $$ S = \Pi R^{2} $$
 
 ![lagrida_latex_editor (5)](https://user-images.githubusercontent.com/114716666/201263077-8e5d1523-547c-4f7c-aae5-c410c3a14fa9.png)
 
+```mermaid 
 flowchart LR
 
 A[10] --> C{атт}
 C -->|1| D[Найс Егэ]
 C -->|2| E[Армия]
-
+```
 
 
 
